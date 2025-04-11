@@ -13,7 +13,7 @@ Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
 ' ClsPersona.cls
 Option Explicit
-
+'Comentario
 Private mNombre As String
 Private mEdad As Integer
 
