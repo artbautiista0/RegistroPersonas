@@ -21,7 +21,7 @@ Private Sub Class_Initialize()
 End Sub
 
 Public Sub Agregar(persona As ClsPersona)
-    lista.Add persona
+    lista.Add persona 'Agregamos a la lista a la persona
 End Sub
 
 Public Function ObtenerTodas() As Collection
