@@ -25,6 +25,6 @@ Public Sub Agregar(persona As ClsPersona)
 End Sub
 
 Public Function ObtenerTodas() As Collection
-    Set ObtenerTodas = lista
+    Set ObtenerTodas = lista 'Obtenemos la lista
 End Function
 
